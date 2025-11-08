@@ -1,2 +1,2 @@
-# -xno
-Official tools/scripts to use (illegal and legal) 
+# Do not use anything from here in a harmful way.
+
